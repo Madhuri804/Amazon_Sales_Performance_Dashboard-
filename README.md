@@ -30,10 +30,15 @@ This project is a **comprehensive Power BI dashboard** designed to analyze **Ama
 ```
 
 ## 📷 Screenshots
+
 [[Main Screen Dashboard Preview](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/powerbidashboard.png)]
+
 [[1 Dashboard Preview](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/2ndscreen.png)]
+
 [[2 Dashboard Preview](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/3rd.png)]
+
 [[3 Dashboard Preview](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/4th.png)]
+
 [[4 Dashboard Preview](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/6th.png)]
 
 

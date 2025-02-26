@@ -1,7 +1,7 @@
 # Amazon_Sales & Performance_Dashboard
 
 ## 📌 Project Title
-**Advanced Amazon Power BI Dashboard - Multi-Screen with Tooltips & TRIM**
+**Advanced Amazon Power BI Dashboard - Multi-Screen with Tooltips**
 
 ## 📖 Description
 This project is a **comprehensive Power BI dashboard** designed to analyze **Amazon** data with advanced visualizations and interactive insights. It features **multiple screens**, **tooltips for enhanced user experience**, and **data cleaning techniques**. The dashboard provides deep insights into various performance metrics, trends, and analytics.

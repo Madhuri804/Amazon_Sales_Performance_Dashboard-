@@ -52,5 +52,5 @@ This project is a **comprehensive Power BI dashboard** designed to analyze **Ama
 Feel free to fork this repository and contribute by adding new features or improving the existing ones.
 ---
 
-**🔗 GitHub Repository:** [Your Repo Link Here]
+**🔗 GitHub Repository:** [([https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-))]
 

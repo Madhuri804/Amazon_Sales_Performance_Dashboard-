@@ -31,7 +31,7 @@ This project is a **comprehensive Power BI dashboard** designed to analyze **Ama
 
 ## 🚀 How to Use
 1. **Clone the Repository**
-   ```bash
+   ```[bash](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard.git)
    git clone https://github.com/yourusername/Amazon-PowerBI-Dashboard.git
    ```
 2. **Open Power BI** and load the `Dashboard.pbix` file.
@@ -39,6 +39,11 @@ This project is a **comprehensive Power BI dashboard** designed to analyze **Ama
 
 ## 📷 Screenshots
 ![Dashboard Preview](screenshots/powerbidashboard.png)
+![[1](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/2ndscreen.png)]
+![[2](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/3rd.png)]
+![[3](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/4th.png)]
+![[4](https://github.com/Madhuri804/Amazon_Sales_Performance_Dashboard-/blob/main/6th.png)]
+
 
 ## ✨ Technologies Used
 - **Power BI**
